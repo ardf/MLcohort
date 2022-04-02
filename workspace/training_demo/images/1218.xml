@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_damage_dataset</folder>
+	<filename>1218.jpeg</filename>
+	<path>C:\Users\91636\Desktop\ardfCodes\car_damage_dataset\1218.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>73</ymin>
+			<xmax>193</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

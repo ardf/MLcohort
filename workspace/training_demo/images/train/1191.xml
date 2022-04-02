@@ -1,0 +1,38 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>1191.jpeg</filename>
+	<path>D:\cohort\.cohort\2\damage detection dataset\set1\1191.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>136</ymin>
+			<xmax>154</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>125</ymin>
+			<xmax>137</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>1301.jpeg</filename>
+	<path>D:\Jupyter\ML Engineering Program\damage detection dataset\set1\1301.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>69</ymin>
+			<xmax>146</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

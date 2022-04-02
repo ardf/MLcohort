@@ -1,0 +1,26 @@
+<annotation>
+	<folder>group k</folder>
+	<filename>1143.jpeg</filename>
+	<path>C:\Users\Vanshika\Downloads\group k\1143.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>29</ymin>
+			<xmax>223</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

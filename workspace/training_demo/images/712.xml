@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>712.jpeg</filename>
+	<path>C:\Users\Dell\OneDrive\Desktop\cuveet\week2\damage detection dataset\damage detection dataset\set1\712.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>12</ymin>
+			<xmax>127</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

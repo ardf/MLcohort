@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_damage_dataset</folder>
+	<filename>1217.jpeg</filename>
+	<path>C:\Users\91636\Desktop\ardfCodes\car_damage_dataset\1217.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>101</ymin>
+			<xmax>137</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

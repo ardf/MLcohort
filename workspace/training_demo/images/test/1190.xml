@@ -1,0 +1,14 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>1190.jpeg</filename>
+	<path>D:\cohort\.cohort\2\damage detection dataset\set1\1190.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

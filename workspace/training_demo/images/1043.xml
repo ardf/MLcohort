@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainingdataset</folder>
+	<filename>1043.jpeg</filename>
+	<path>/home/wajiha/trainingdataset/1043.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>84</ymin>
+			<xmax>217</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

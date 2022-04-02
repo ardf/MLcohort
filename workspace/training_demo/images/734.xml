@@ -1,0 +1,26 @@
+<annotation>
+	<folder>detection</folder>
+	<filename>734.jpeg</filename>
+	<path>C:\Users\ADMIN\Downloads\detection\734.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>10</ymin>
+			<xmax>224</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

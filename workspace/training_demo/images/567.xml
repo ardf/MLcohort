@@ -1,0 +1,38 @@
+<annotation>
+	<folder>grp-F_dataset</folder>
+	<filename>567.jpeg</filename>
+	<path>/Volumes/T5/Cuvette_program/Coding/2nd_week_task/Data_anotation and cleaning/grp-F_dataset/567.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>99</ymin>
+			<xmax>93</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>34</ymin>
+			<xmax>153</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

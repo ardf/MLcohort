@@ -1,0 +1,38 @@
+<annotation>
+	<folder>set1</folder>
+	<filename>668.jpeg</filename>
+	<path>D:\ML cohert\ML project\damage detection dataset\damage detection dataset\set1\668.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>replacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>65</ymin>
+			<xmax>162</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>164</ymin>
+			<xmax>186</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
